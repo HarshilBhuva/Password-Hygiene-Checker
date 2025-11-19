@@ -4,16 +4,18 @@ A simple web application to check password strength and security. This tool anal
 
 ## Features
 
-- ✅ Password length validation
+- ✅ Password length validation (minimum 8 characters)
 - ✅ Character variety checks (uppercase, lowercase, digits, special characters)
-- ✅ Common weak password detection
-- ✅ Pattern detection (repeated characters)
+- ✅ Repeated character detection
 - ✅ Strength scoring system (Very Weak, Weak, Moderate, Strong, Very Strong)
 - ✅ Modern, responsive UI
-- ✅ Real-time password analysis
 - ✅ Detailed recommendations for improvement
 
-## Quick Start
+
+## Installation
+
+### Quick Start
+**Clone or download this repository**
 
 **Windows:**
 ```bash
@@ -27,8 +29,6 @@ chmod +x setup.sh
 ```
 
 This will automatically create a virtual environment and install all dependencies.
-
-## Installation
 
 ### Manual Installation
 
@@ -91,6 +91,10 @@ chmod +x run.sh
    ```
    http://localhost:5000
    ```
+    OR 
+      ```
+      http://127.0.0.1:5000/
+      ```
 
 4. **Enter a password to check** in the input field and click "Check Password"
 
