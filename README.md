@@ -118,7 +118,7 @@ chmod +x run.sh
 
 The checker analyzes passwords based on:
 
-1. **Length**: Validates password length (default: 8-128 characters)
+1. **Length**: Validates password length (default: 10-128 characters)
 2. **Character Variety**: Checks for uppercase, lowercase, digits, and special characters
 3. **Common Passwords**: Flags passwords that are commonly used and easily guessable
 4. **Pattern Detection**: Identifies repeated characters
