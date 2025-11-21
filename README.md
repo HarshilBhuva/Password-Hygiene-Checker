@@ -126,7 +126,7 @@ The checker analyzes passwords based on:
 
 ## Checks Performed
 
-- **Length Check**: Validates password length (minimum 8 characters recommended)
+- **Length Check**: Validates password length (minimum 10 characters recommended)
 - **Uppercase Letters**: Ensures presence of capital letters (A-Z)
 - **Lowercase Letters**: Ensures presence of lowercase letters (a-z)
 - **Digits**: Ensures presence of numbers (0-9)
