@@ -4,10 +4,10 @@ A simple web application to check password strength and security. This tool anal
 
 ## Features
 
-- ✅ Password length validation
+- ✅ Password length validation (minimum 8 characters)
 - ✅ Character variety checks (uppercase, lowercase, digits, special characters)
 - ✅ Common weak password detection
-- ✅ Pattern detection (repeated characters)
+- ✅ Repeated character detection
 - ✅ Strength scoring system (Very Weak, Weak, Moderate, Strong, Very Strong)
 - ✅ Modern, responsive UI
 - ✅ Real-time password analysis
